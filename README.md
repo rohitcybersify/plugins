@@ -1,3 +1,3 @@
 # plugins
 
-Add shortcode search
+Add shortcode 'search'
